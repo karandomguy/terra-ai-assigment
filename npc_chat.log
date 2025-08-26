@@ -1,0 +1,1479 @@
+2025-08-26 19:48:50,948 - INFO - Groq client initialized successfully
+2025-08-26 19:48:50,948 - INFO - Loaded 105 messages from players.json
+2025-08-26 19:48:50,948 - INFO - Processing 105 messages...
+2025-08-26 19:48:51,258 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:51,279 - INFO - Generated response via Groq for player 2
+2025-08-26 19:48:51,280 - INFO - 
+        Player 2 | Interaction #1
+        Message: "Where should I go now?"
+        NPC Reply: "Good morrow, traveler. You're still in need of guidance, I see. The village elder might be able to offer you wise counsel; you can find her at the town hall, just past the blacksmith's forge."
+        Mood: neutral | Topic: help
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:05
+        ==================================================
+        
+2025-08-26 19:48:51,593 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:51,594 - INFO - Generated response via Groq for player 5
+2025-08-26 19:48:51,594 - INFO - 
+        Player 5 | Interaction #1
+        Message: "Can I buy a sword here?"
+        NPC Reply: ""Aye, I can help ye with that. Follow me to the blacksmith's forge, and he'll be able to craft or sell ye a fine sword.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:07
+        ==================================================
+        
+2025-08-26 19:48:51,857 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:51,860 - INFO - Generated response via Groq for player 1
+2025-08-26 19:48:51,860 - INFO - 
+        Player 1 | Interaction #1
+        Message: "Hello there!"
+        NPC Reply: "Good morrow, traveler. Welcome to our humble village, I am Edwin, the village blacksmith."
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:10
+        ==================================================
+        
+2025-08-26 19:48:52,220 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:52,221 - INFO - Generated response via Groq for player 6
+2025-08-26 19:48:52,221 - INFO - 
+        Player 6 | Interaction #1
+        Message: "Sing me a song!"
+        NPC Reply: ""Welcome back, traveler 6. I recall you asked me to sing a tune, but I'm a humble villager, not a minstrel.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:12
+        ==================================================
+        
+2025-08-26 19:48:52,326 - INFO - Player 3 mood changed to friendly
+2025-08-26 19:48:52,615 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:52,616 - INFO - Generated response via Groq for player 3
+2025-08-26 19:48:52,616 - INFO - 
+        Player 3 | Interaction #1
+        Message: "Do you have a quest for me?"
+        NPC Reply: "Good morrow, adventurer 3! I've actually been looking for someone with your... particular set of skills."
+        Mood: friendly | Topic: quest
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:15
+        ==================================================
+        
+2025-08-26 19:48:53,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:53,376 - INFO - Generated response via Groq for player 4
+2025-08-26 19:48:53,376 - INFO - 
+        Player 4 | Interaction #1
+        Message: "What's the fastest way to level up?"
+        NPC Reply: ""Ah, you seek to grow in power, good traveler? I've heard the Adventurer's Guild in the nearby town offers challenging quests and rich rewards.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:18
+        ==================================================
+        
+2025-08-26 19:48:53,845 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:53,846 - INFO - Generated response via Groq for player 1
+2025-08-26 19:48:53,847 - INFO - 
+        Player 1 | Interaction #2
+        Message: "Tell me more about this village."
+        NPC Reply: "Welcome back, traveler. This village, Greenhaven, is a humble settlement nestled between the rolling hills and dense forests of our kingdom."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Hello there!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:20
+        ==================================================
+        
+2025-08-26 19:48:54,110 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:54,110 - INFO - Generated response via Groq for player 10
+2025-08-26 19:48:54,111 - INFO - 
+        Player 10 | Interaction #1
+        Message: "This game is so confusing!"
+        NPC Reply: "Greetings, traveler 10. Welcome to our humble village. What brings you to our fair town today?"
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:22
+        ==================================================
+        
+2025-08-26 19:48:54,216 - INFO - Player 2 mood changed to angry
+2025-08-26 19:48:54,370 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:54,371 - INFO - Generated response via Groq for player 2
+2025-08-26 19:48:54,371 - INFO - 
+        Player 2 | Interaction #2
+        Message: "You are useless!"
+        NPC Reply: "How dare you speak to me like that, again. Leave now, traveler, before I summon the village guard."
+        Mood: angry | Topic: insult
+        Previous Messages: ['Where should I go now?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:25
+        ==================================================
+        
+2025-08-26 19:48:54,643 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:54,644 - INFO - Generated response via Groq for player 4
+2025-08-26 19:48:54,644 - INFO - 
+        Player 4 | Interaction #2
+        Message: "Anyone selling armor?"
+        NPC Reply: "Good day, traveler. Yes, I have armor for sale, crafted by the village's finest blacksmith."
+        Mood: neutral | Topic: general
+        Previous Messages: ["What's the fastest way to level up?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:28
+        ==================================================
+        
+2025-08-26 19:48:55,574 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:55,575 - INFO - Generated response via Groq for player 3
+2025-08-26 19:48:55,576 - INFO - 
+        Player 3 | Interaction #2
+        Message: "What monsters are nearby?"
+        NPC Reply: "Good morrow, traveler. In these parts, we've had whispers of goblins lurkin' in the nearby forest."
+        Mood: friendly | Topic: general
+        Previous Messages: ['Do you have a quest for me?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:30
+        ==================================================
+        
+2025-08-26 19:48:55,833 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:55,835 - INFO - Generated response via Groq for player 8
+2025-08-26 19:48:55,835 - INFO - 
+        Player 8 | Interaction #1
+        Message: "I'm lost, which way to the forest?"
+        NPC Reply: "Greetings, traveler 8. The forest lies east, beyond the village square."
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:33
+        ==================================================
+        
+2025-08-26 19:48:55,940 - INFO - Player 1 mood changed to friendly
+2025-08-26 19:48:56,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:56,448 - INFO - Generated response via Groq for player 1
+2025-08-26 19:48:56,448 - INFO - 
+        Player 1 | Interaction #3
+        Message: "I need help fighting."
+        NPC Reply: "We've had some skirmishes with bandits lately. I can introduce you to Grimbold, our village's best warrior, if you'd like to learn from him."
+        Mood: friendly | Topic: help
+        Previous Messages: ['Hello there!', 'Tell me more about this village.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:35
+        ==================================================
+        
+2025-08-26 19:48:56,695 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:56,696 - INFO - Generated response via Groq for player 9
+2025-08-26 19:48:56,696 - INFO - 
+        Player 9 | Interaction #1
+        Message: "What's your name, stranger?"
+        NPC Reply: "My name is Edwin, village blacksmith. I've been serving the good people of Oakwood for nigh on 20 years."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:38
+        ==================================================
+        
+2025-08-26 19:48:56,992 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:56,993 - INFO - Generated response via Groq for player 11
+2025-08-26 19:48:56,994 - INFO - 
+        Player 11 | Interaction #1
+        Message: "Anyone want to party up?"
+        NPC Reply: ""What sorcery do you speak of, traveler 11? I'm no adventurer, but I know the village elder might know of something.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:40
+        ==================================================
+        
+2025-08-26 19:48:57,098 - INFO - Player 7 mood changed to friendly
+2025-08-26 19:48:57,620 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:57,621 - INFO - Generated response via Groq for player 7
+2025-08-26 19:48:57,621 - INFO - 
+        Player 7 | Interaction #1
+        Message: "This place looks awesome!"
+        NPC Reply: ""Welcome to Oakwood Village, traveler! I'm Eira, the local baker. What brings you to our humble home?""
+        Mood: friendly | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:42
+        ==================================================
+        
+2025-08-26 19:48:57,890 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:57,893 - INFO - Generated response via Groq for player 2
+2025-08-26 19:48:57,893 - INFO - 
+        Player 2 | Interaction #3
+        Message: "Sorry, I was just frustrated."
+        NPC Reply: "Forgive me for the previous inconvenience, traveler. I'll do my best to assist you in finding your way."
+        Mood: angry | Topic: general
+        Previous Messages: ['Where should I go now?', 'You are useless!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:45
+        ==================================================
+        
+2025-08-26 19:48:58,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:58,523 - INFO - Generated response via Groq for player 14
+2025-08-26 19:48:58,523 - INFO - 
+        Player 14 | Interaction #1
+        Message: "What level do I need to be?"
+        NPC Reply: "Good morrow, traveler from village 14. To determine your required level, I shall need to know what quest or task you seek to undertake."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:47
+        ==================================================
+        
+2025-08-26 19:48:59,427 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:59,428 - INFO - Generated response via Groq for player 1
+2025-08-26 19:48:59,428 - INFO - 
+        Player 1 | Interaction #4
+        Message: "Where can I find a healer?"
+        NPC Reply: "You'll find our village healer, Elara, in the north wing of the village square. She's a skilled apothecary and should be able to tend to your wounds."
+        Mood: friendly | Topic: help
+        Previous Messages: ['Hello there!', 'Tell me more about this village.', 'I need help fighting.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:48
+        ==================================================
+        
+2025-08-26 19:48:59,735 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:59,736 - INFO - Generated response via Groq for player 5
+2025-08-26 19:48:59,736 - INFO - 
+        Player 5 | Interaction #2
+        Message: "Do you know any good hunting spots?"
+        NPC Reply: ""Ah, you're lookin' to bag some meat, eh? There's a good spot just north of the village, near the old oak forest, plenty of deer and rabbits to be found.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Can I buy a sword here?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:50
+        ==================================================
+        
+2025-08-26 19:48:59,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:48:59,990 - INFO - Generated response via Groq for player 4
+2025-08-26 19:48:59,990 - INFO - 
+        Player 4 | Interaction #3
+        Message: "This is taking forever..."
+        NPC Reply: ""Patience is a virtue, traveler. The villagers are hard at work, and your requests will be attended to in due time.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ["What's the fastest way to level up?", 'Anyone selling armor?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:52
+        ==================================================
+        
+2025-08-26 19:49:00,096 - INFO - Player 6 mood changed to friendly
+2025-08-26 19:49:00,246 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:00,248 - INFO - Generated response via Groq for player 6
+2025-08-26 19:49:00,248 - INFO - 
+        Player 6 | Interaction #2
+        Message: "Thanks for the help earlier!"
+        NPC Reply: ""Ah, you're welcome, good sir Player 6! 'Twas a pleasure to lend a hand.""
+        Mood: friendly | Topic: help
+        Previous Messages: ['Sing me a song!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:55
+        ==================================================
+        
+2025-08-26 19:49:00,503 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:00,505 - INFO - Generated response via Groq for player 12
+2025-08-26 19:49:00,506 - INFO - 
+        Player 12 | Interaction #1
+        Message: "You're blocking my view!"
+        NPC Reply: "Good morrow, traveler. I was simply standing here, minding my own business."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:01:58
+        ==================================================
+        
+2025-08-26 19:49:00,812 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:00,814 - INFO - Generated response via Groq for player 3
+2025-08-26 19:49:00,814 - INFO - 
+        Player 3 | Interaction #3
+        Message: "I completed that quest, what's next?"
+        NPC Reply: ""Ah, good job on completing that quest, traveler. I have a new task in mind, one that requires bravery and cunning - the Whispering Woods are said to be plagued by a pack of ghost wolves.""
+        Mood: friendly | Topic: quest
+        Previous Messages: ['Do you have a quest for me?', 'What monsters are nearby?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:02
+        ==================================================
+        
+2025-08-26 19:49:01,113 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:01,115 - INFO - Generated response via Groq for player 7
+2025-08-26 19:49:01,115 - INFO - 
+        Player 7 | Interaction #2
+        Message: "How do I craft items?"
+        NPC Reply: "Welcome back, Traveler 7! I see you're eager to craft some items. Head over to Thorne's Forge, just outside the village. He'll be happy to guide you through the process."
+        Mood: friendly | Topic: general
+        Previous Messages: ['This place looks awesome!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:05
+        ==================================================
+        
+2025-08-26 19:49:01,491 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:01,493 - INFO - Generated response via Groq for player 8
+2025-08-26 19:49:01,493 - INFO - 
+        Player 8 | Interaction #2
+        Message: "Can you teach me to fight?"
+        NPC Reply: ""Fighting skills don't grow on trees, but I can teach you the basics if you're willing to learn. Meet me at the village green at dawn if you're serious.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["I'm lost, which way to the forest?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:08
+        ==================================================
+        
+2025-08-26 19:49:01,775 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:01,777 - INFO - Generated response via Groq for player 13
+2025-08-26 19:49:01,777 - INFO - 
+        Player 13 | Interaction #1
+        Message: "Good evening, friend!"
+        NPC Reply: ""Ah, good evening to you, traveler number 13! What brings you to our humble village tonight?""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:10
+        ==================================================
+        
+2025-08-26 19:49:02,310 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:02,312 - INFO - Generated response via Groq for player 9
+2025-08-26 19:49:02,313 - INFO - 
+        Player 9 | Interaction #2
+        Message: "This weather is perfect for adventure."
+        NPC Reply: "'Aye, the skies have been favorable of late. Glad you think so, traveler 9.'"
+        Mood: neutral | Topic: greeting
+        Previous Messages: ["What's your name, stranger?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:12
+        ==================================================
+        
+2025-08-26 19:49:02,925 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:02,926 - INFO - Generated response via Groq for player 2
+2025-08-26 19:49:02,926 - INFO - 
+        Player 2 | Interaction #4
+        Message: "I found a rare item!"
+        NPC Reply: "What manner of 'rare item' is this? Show me, and perhaps it shall earn you a warm welcome in our village, unlike your last visit."
+        Mood: angry | Topic: general
+        Previous Messages: ['Where should I go now?', 'You are useless!', 'Sorry, I was just frustrated.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:15
+        ==================================================
+        
+2025-08-26 19:49:03,203 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:03,205 - INFO - Generated response via Groq for player 15
+2025-08-26 19:49:03,205 - INFO - 
+        Player 15 | Interaction #1
+        Message: "Stop following me around!"
+        NPC Reply: "Good morrow, traveler 15. I merely offered to assist, as I often do for our village's guests."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:18
+        ==================================================
+        
+2025-08-26 19:49:03,350 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:03,351 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:05,531 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:05,534 - INFO - Generated response via Groq for player 5
+2025-08-26 19:49:05,534 - INFO - 
+        Player 5 | Interaction #3
+        Message: "How much gold do I need?"
+        NPC Reply: "A fine warrior such as yourself will likely need about 15 gold pieces for a decent sword."
+        Mood: neutral | Topic: general
+        Previous Messages: ['Can I buy a sword here?', 'Do you know any good hunting spots?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:20
+        ==================================================
+        
+2025-08-26 19:49:05,678 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:05,679 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:08,047 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:08,049 - INFO - Generated response via Groq for player 1
+2025-08-26 19:49:08,049 - INFO - 
+        Player 1 | Interaction #5
+        Message: "The inn looks cozy."
+        NPC Reply: ""Aye, the Silver Stag Inn is a warm welcome after a long day's travel. I'm sure you'll find a comfortable room and a hot meal within.""
+        Mood: friendly | Topic: general
+        Previous Messages: ['Tell me more about this village.', 'I need help fighting.', 'Where can I find a healer?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:22
+        ==================================================
+        
+2025-08-26 19:49:08,200 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:08,201 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:10,605 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:10,607 - INFO - Generated response via Groq for player 10
+2025-08-26 19:49:10,607 - INFO - 
+        Player 10 | Interaction #2
+        Message: "Finally figured it out!"
+        NPC Reply: ""Ah, good fortune favors you, traveler from the north. 'Tis a relief to hear you've found your bearings.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['This game is so confusing!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:25
+        ==================================================
+        
+2025-08-26 19:49:10,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:10,761 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:12,951 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:12,954 - INFO - Generated response via Groq for player 6
+2025-08-26 19:49:12,954 - INFO - 
+        Player 6 | Interaction #3
+        Message: "I love this soundtrack!"
+        NPC Reply: "Good morrow to you, Traveler 6! It's a pleasure to hear you're enjoying our village's lively tunes."
+        Mood: friendly | Topic: greeting
+        Previous Messages: ['Sing me a song!', 'Thanks for the help earlier!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:28
+        ==================================================
+        
+2025-08-26 19:49:13,114 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:13,115 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:15,290 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:15,291 - INFO - Generated response via Groq for player 16
+2025-08-26 19:49:15,292 - INFO - 
+        Player 16 | Interaction #1
+        Message: "Anyone seen the blacksmith?"
+        NPC Reply: "Good morrow, traveler 16. I haven't seen the blacksmith this morning, but you might find him working at the forge near the town square."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:30
+        ==================================================
+        
+2025-08-26 19:49:15,443 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:15,444 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:18,387 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:18,388 - INFO - Generated response via Groq for player 3
+2025-08-26 19:49:18,388 - INFO - 
+        Player 3 | Interaction #4
+        Message: "That boss was impossible!"
+        NPC Reply: "Ah, I see ye're still reelin' from the battle, traveler. Don't ye worry, we've got a few skilled hunters who've taken down tougher foes than that beast ye faced."
+        Mood: friendly | Topic: general
+        Previous Messages: ['Do you have a quest for me?', 'What monsters are nearby?', "I completed that quest, what's next?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:33
+        ==================================================
+        
+2025-08-26 19:49:18,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:18,546 - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-08-26 19:49:19,749 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:19,752 - INFO - Generated response via Groq for player 11
+2025-08-26 19:49:19,752 - INFO - 
+        Player 11 | Interaction #2
+        Message: "Let's form a guild!"
+        NPC Reply: ""Guilds are a great way to organize adventurers, 11. I've seen many form within these village walls. What kind of guild would you be interested in forming?""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Anyone want to party up?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:35
+        ==================================================
+        
+2025-08-26 19:49:19,901 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:19,902 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:22,175 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:22,177 - INFO - Generated response via Groq for player 17
+2025-08-26 19:49:22,177 - INFO - 
+        Player 17 | Interaction #1
+        Message: "Hello, how are you today?"
+        NPC Reply: "Good morrow, traveler. I'm well, thank you for asking. May the road rise to meet you, for I can see you've walked some distance already."
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:38
+        ==================================================
+        
+2025-08-26 19:49:22,338 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:22,339 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:25,145 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:25,146 - INFO - Generated response via Groq for player 12
+2025-08-26 19:49:25,146 - INFO - 
+        Player 12 | Interaction #2
+        Message: "Move out of the way, noob!"
+        NPC Reply: ""Good morrow, traveler. I was just standing here, minding my own business.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["You're blocking my view!"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:40
+        ==================================================
+        
+2025-08-26 19:49:25,251 - INFO - Player 18 mood changed to friendly
+2025-08-26 19:49:25,298 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:25,299 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:27,523 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:27,524 - INFO - Generated response via Groq for player 18
+2025-08-26 19:49:27,524 - INFO - 
+        Player 18 | Interaction #1
+        Message: "This village has great atmosphere!"
+        NPC Reply: ""Ah, 'tis a pleasure to see ye here, good sir 18 from... wherever ye may be from. Welcome to our humble village, I'm Eira, the local baker.""
+        Mood: friendly | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:42
+        ==================================================
+        
+2025-08-26 19:49:27,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:27,676 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:29,870 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:29,871 - INFO - Generated response via Groq for player 7
+2025-08-26 19:49:29,871 - INFO - 
+        Player 7 | Interaction #3
+        Message: "Where do I learn magic?"
+        NPC Reply: "Young traveler from village 7, I see you're eager to learn magic. Our village elder, Thorold, teaches the ways of magic at the old windmill on the outskirts."
+        Mood: friendly | Topic: help
+        Previous Messages: ['This place looks awesome!', 'How do I craft items?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:45
+        ==================================================
+        
+2025-08-26 19:49:30,015 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:30,016 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:32,314 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:32,317 - INFO - Generated response via Groq for player 4
+2025-08-26 19:49:32,318 - INFO - 
+        Player 4 | Interaction #4
+        Message: "I need better equipment."
+        NPC Reply: ""I've got a few pieces of armor that might suit you, from a traveling blacksmith who passed through last week. Let's have a look, if you'd like.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["What's the fastest way to level up?", 'Anyone selling armor?', 'This is taking forever...']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:48
+        ==================================================
+        
+2025-08-26 19:49:32,482 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:32,483 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:34,675 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:34,678 - INFO - Generated response via Groq for player 13
+2025-08-26 19:49:34,678 - INFO - 
+        Player 13 | Interaction #2
+        Message: "The sunset here is beautiful."
+        NPC Reply: ""Aye, the sunset over the rolling hills is a sight to behold, indeed. 'Tis a reminder of the changing seasons, don't you think, Player 13?""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Good evening, friend!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:50
+        ==================================================
+        
+2025-08-26 19:49:34,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:34,976 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:37,742 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:37,744 - INFO - Generated response via Groq for player 8
+2025-08-26 19:49:37,745 - INFO - 
+        Player 8 | Interaction #3
+        Message: "Can someone explain the controls?"
+        NPC Reply: ""Ah, young traveler, you've come to us with questions, have ye? The controls are simple, just follow the gestures of your character on-screen and use the buttons to guide them.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["I'm lost, which way to the forest?", 'Can you teach me to fight?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:52
+        ==================================================
+        
+2025-08-26 19:49:37,896 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:37,896 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:40,198 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:40,199 - INFO - Generated response via Groq for player 19
+2025-08-26 19:49:40,199 - INFO - 
+        Player 19 | Interaction #1
+        Message: "You look like a wise person."
+        NPC Reply: ""Ah, a traveler, I see. What brings you to our humble village?""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:55
+        ==================================================
+        
+2025-08-26 19:49:40,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:40,354 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:43,066 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:43,069 - INFO - Generated response via Groq for player 2
+2025-08-26 19:49:43,069 - INFO - 
+        Player 2 | Interaction #5
+        Message: "I'm running low on health potions."
+        NPC Reply: "You've had your share of luck, I suppose. Our local apothecary still has some potions available, but they're not cheap."
+        Mood: angry | Topic: general
+        Previous Messages: ['You are useless!', 'Sorry, I was just frustrated.', 'I found a rare item!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:02:58
+        ==================================================
+        
+2025-08-26 19:49:43,221 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:43,223 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:45,423 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:45,424 - INFO - Generated response via Groq for player 14
+2025-08-26 19:49:45,424 - INFO - 
+        Player 14 | Interaction #2
+        Message: "This is harder than I thought."
+        NPC Reply: ""Ah, welcome back, traveler 14. Perhaps a warm meal and a rest will help ease the troubles you're facing.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['What level do I need to be?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:00
+        ==================================================
+        
+2025-08-26 19:49:45,611 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:45,611 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:48,288 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:48,289 - INFO - Generated response via Groq for player 9
+2025-08-26 19:49:48,289 - INFO - 
+        Player 9 | Interaction #3
+        Message: "Want to explore together?"
+        NPC Reply: ""Ah, I'm Eryndor Thorne, a villager and local guide. Exploring together sounds like a fine idea, for a small fee, of course.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["What's your name, stranger?", 'This weather is perfect for adventure.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:02
+        ==================================================
+        
+2025-08-26 19:49:48,437 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:48,438 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:50,652 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:50,655 - INFO - Generated response via Groq for player 20
+2025-08-26 19:49:50,655 - INFO - 
+        Player 20 | Interaction #1
+        Message: "Get lost, I was here first!"
+        NPC Reply: ""Ah, good morrow, traveler 20. No need for words like those in our humble village. I'm but a simple blacksmith, here to help all who need it.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:05
+        ==================================================
+        
+2025-08-26 19:49:50,760 - INFO - Player 15 mood changed to friendly
+2025-08-26 19:49:50,802 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:50,803 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:53,126 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:53,128 - INFO - Generated response via Groq for player 15
+2025-08-26 19:49:53,128 - INFO - 
+        Player 15 | Interaction #2
+        Message: "Thanks for being patient with me."
+        NPC Reply: "You've learned quickly, traveler 15. Your progress is a testament to your determination."
+        Mood: friendly | Topic: compliment
+        Previous Messages: ['Stop following me around!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:08
+        ==================================================
+        
+2025-08-26 19:49:53,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:53,275 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:55,496 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:55,500 - INFO - Generated response via Groq for player 5
+2025-08-26 19:49:55,500 - INFO - 
+        Player 5 | Interaction #4
+        Message: "Do you have any tips for beginners?"
+        NPC Reply: ""Ah, you're a newcomer to swordsmanship, eh? Be careful with that sword of yours, especially when facing the bandits on the forest road – they won't hold back.""
+        Mood: neutral | Topic: quest
+        Previous Messages: ['Can I buy a sword here?', 'Do you know any good hunting spots?', 'How much gold do I need?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:10
+        ==================================================
+        
+2025-08-26 19:49:55,655 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:55,655 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:49:57,813 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:49:57,814 - INFO - Generated response via Groq for player 10
+2025-08-26 19:49:57,814 - INFO - 
+        Player 10 | Interaction #3
+        Message: "I love meeting new players!"
+        NPC Reply: ""Ah, a new face in the village. Welcome, Player 10!""
+        Mood: neutral | Topic: general
+        Previous Messages: ['This game is so confusing!', 'Finally figured it out!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:12
+        ==================================================
+        
+2025-08-26 19:49:57,961 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:49:57,961 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:00,274 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:00,276 - INFO - Generated response via Groq for player 16
+2025-08-26 19:50:00,277 - INFO - 
+        Player 16 | Interaction #2
+        Message: "This place gives me the creeps."
+        NPC Reply: "You're feelin' a bit uneasy, I reckon. We don't get many strangers here in Willowdale, but we're always happy to have visitors."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Anyone seen the blacksmith?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:15
+        ==================================================
+        
+2025-08-26 19:50:00,426 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:00,426 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:03,175 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:03,177 - INFO - Generated response via Groq for player 1
+2025-08-26 19:50:03,177 - INFO - 
+        Player 1 | Interaction #6
+        Message: "What's that strange noise?"
+        NPC Reply: ""Ah, that noise sounds like it's coming from the old windmill on the outskirts of the village. Maybe it's just the wind or a stray animal, but I'll keep an ear out for you.""
+        Mood: friendly | Topic: general
+        Previous Messages: ['I need help fighting.', 'Where can I find a healer?', 'The inn looks cozy.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:18
+        ==================================================
+        
+2025-08-26 19:50:03,324 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:03,325 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:05,510 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:05,512 - INFO - Generated response via Groq for player 21
+2025-08-26 19:50:05,512 - INFO - 
+        Player 21 | Interaction #1
+        Message: "Good day to you, traveler!"
+        NPC Reply: ""Hail, traveler number 21. 'Tis a fine day to be walking, indeed.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:20
+        ==================================================
+        
+2025-08-26 19:50:05,668 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:05,668 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:08,053 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:08,056 - INFO - Generated response via Groq for player 6
+2025-08-26 19:50:08,056 - INFO - 
+        Player 6 | Interaction #4
+        Message: "I could stay here all day."
+        NPC Reply: ""Ah, 'tis a pleasant day for a stay, don't you think? Come, join me for some ale and we'll chat about the village news!""
+        Mood: friendly | Topic: general
+        Previous Messages: ['Sing me a song!', 'Thanks for the help earlier!', 'I love this soundtrack!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:22
+        ==================================================
+        
+2025-08-26 19:50:08,211 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:08,212 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:10,626 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:10,628 - INFO - Generated response via Groq for player 11
+2025-08-26 19:50:10,628 - INFO - 
+        Player 11 | Interaction #3
+        Message: "Anyone know where to find crystals?"
+        NPC Reply: ""Ah, crystals, you say? I've seen some at the local gem merchant, Elara's Treasures, just down the main street.""
+        Mood: neutral | Topic: help
+        Previous Messages: ['Anyone want to party up?', "Let's form a guild!"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:25
+        ==================================================
+        
+2025-08-26 19:50:10,772 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:10,773 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:12,929 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:12,931 - INFO - Generated response via Groq for player 22
+2025-08-26 19:50:12,932 - INFO - 
+        Player 22 | Interaction #1
+        Message: "You're in my spot, move it!"
+        NPC Reply: ""Ah, good morrow, traveler number 22. I'll be moving along, no need to trouble yourself.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:28
+        ==================================================
+        
+2025-08-26 19:50:13,032 - INFO - Player 3 mood changed to angry
+2025-08-26 19:50:13,080 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:13,081 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:15,525 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:15,527 - INFO - Generated response via Groq for player 3
+2025-08-26 19:50:15,527 - INFO - 
+        Player 3 | Interaction #5
+        Message: "I'm ready for whatever comes next."
+        NPC Reply: "*scoffs* You think you're ready, do ya? You've had it easy so far, completing quests without breaking a sweat."
+        Mood: angry | Topic: insult
+        Previous Messages: ['What monsters are nearby?', "I completed that quest, what's next?", 'That boss was impossible!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:30
+        ==================================================
+        
+2025-08-26 19:50:15,742 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:15,742 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:18,087 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:18,089 - INFO - Generated response via Groq for player 17
+2025-08-26 19:50:18,089 - INFO - 
+        Player 17 | Interaction #2
+        Message: "The architecture here is amazing."
+        NPC Reply: "Aye, the stonemasons who built our village did a fine job, don't ye think? I've seen the same wonder on visitor 17's face before, but the village always looks new."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Hello, how are you today?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:32
+        ==================================================
+        
+2025-08-26 19:50:18,241 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:18,242 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:21,105 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:21,106 - INFO - Generated response via Groq for player 12
+2025-08-26 19:50:21,106 - INFO - 
+        Player 12 | Interaction #3
+        Message: "Finally, someone who knows what they're doing."
+        NPC Reply: "A wise traveler, I see. I've been expecting you, Player 12, to finally arrive with some decorum."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ["You're blocking my view!", 'Move out of the way, noob!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:35
+        ==================================================
+        
+2025-08-26 19:50:21,258 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:21,259 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:23,445 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:23,449 - INFO - Generated response via Groq for player 7
+2025-08-26 19:50:23,449 - INFO - 
+        Player 7 | Interaction #4
+        Message: "How do I save my progress?"
+        NPC Reply: "Good morrow, traveler 7! Don't worry, your progress is saved within the village's sacred Oak of Records."
+        Mood: friendly | Topic: general
+        Previous Messages: ['This place looks awesome!', 'How do I craft items?', 'Where do I learn magic?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:38
+        ==================================================
+        
+2025-08-26 19:50:23,604 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:23,605 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:26,484 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:26,486 - INFO - Generated response via Groq for player 18
+2025-08-26 19:50:26,486 - INFO - 
+        Player 18 | Interaction #2
+        Message: "I wish I had your experience."
+        NPC Reply: ""Aye, it's a fine place to live, especially with the river nearby for fishing. You're welcome to try your hand at it, Player 18.""
+        Mood: friendly | Topic: general
+        Previous Messages: ['This village has great atmosphere!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:40
+        ==================================================
+        
+2025-08-26 19:50:26,637 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:26,638 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:28,808 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:28,809 - INFO - Generated response via Groq for player 4
+2025-08-26 19:50:28,810 - INFO - 
+        Player 4 | Interaction #5
+        Message: "This grind is killing me."
+        NPC Reply: ""Ah, I see you're still looking for better equipment. Perhaps a visit to the blacksmith would be in order?""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Anyone selling armor?', 'This is taking forever...', 'I need better equipment.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:42
+        ==================================================
+        
+2025-08-26 19:50:28,959 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:28,960 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:31,116 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:31,124 - INFO - Generated response via Groq for player 23
+2025-08-26 19:50:31,124 - INFO - 
+        Player 23 | Interaction #1
+        Message: "Greetings, fellow adventurer!"
+        NPC Reply: ""Ah, traveler 23, good day to you. What brings you to our humble village?""
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:45
+        ==================================================
+        
+2025-08-26 19:50:31,281 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:31,282 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:33,665 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:33,667 - INFO - Generated response via Groq for player 13
+2025-08-26 19:50:33,667 - INFO - 
+        Player 13 | Interaction #3
+        Message: "I've been playing for hours."
+        NPC Reply: ""Ah, long day at it, eh, traveler? You've had a good stretch of gaming, I reckon.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Good evening, friend!', 'The sunset here is beautiful.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:48
+        ==================================================
+        
+2025-08-26 19:50:33,822 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:33,822 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:36,109 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:36,110 - INFO - Generated response via Groq for player 8
+2025-08-26 19:50:36,111 - INFO - 
+        Player 8 | Interaction #4
+        Message: "Could you show me the map?"
+        NPC Reply: ""Ah, good morrow, Traveler 8. Let me show you the local map, 'twill help you find your way. I've marked the path to the forest, as I recall your previous inquiry.""
+        Mood: neutral | Topic: help
+        Previous Messages: ["I'm lost, which way to the forest?", 'Can you teach me to fight?', 'Can someone explain the controls?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:50
+        ==================================================
+        
+2025-08-26 19:50:36,274 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:36,274 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:38,509 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:38,511 - INFO - Generated response via Groq for player 24
+2025-08-26 19:50:38,511 - INFO - 
+        Player 24 | Interaction #1
+        Message: "Stop wasting my time!"
+        NPC Reply: "Good morrow, traveler 24. I mean no disrespect, but perhaps a cup of ale to calm the temper?"
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:52
+        ==================================================
+        
+2025-08-26 19:50:38,669 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:38,670 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:40,855 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:40,858 - INFO - Generated response via Groq for player 19
+2025-08-26 19:50:40,859 - INFO - 
+        Player 19 | Interaction #2
+        Message: "Your wisdom is appreciated."
+        NPC Reply: ""A simple acknowledgement is often as valuable as a lengthy one, traveler. May our paths cross again soon.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['You look like a wise person.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:55
+        ==================================================
+        
+2025-08-26 19:50:41,016 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:41,017 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:43,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:43,221 - INFO - Generated response via Groq for player 2
+2025-08-26 19:50:43,221 - INFO - 
+        Player 2 | Interaction #6
+        Message: "I think I'm getting the hang of this."
+        NPC Reply: ""Ah, a novice no more, eh? Get on with your training, you have a village to help protect.""
+        Mood: angry | Topic: greeting
+        Previous Messages: ['Sorry, I was just frustrated.', 'I found a rare item!', "I'm running low on health potions."]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:03:58
+        ==================================================
+        
+2025-08-26 19:50:43,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:43,373 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:45,631 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:45,633 - INFO - Generated response via Groq for player 14
+2025-08-26 19:50:45,633 - INFO - 
+        Player 14 | Interaction #3
+        Message: "This community seems friendly."
+        NPC Reply: ""Aye, the folk here are kind and welcoming, sir Player 14. Many have become like family to me over the years.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['What level do I need to be?', 'This is harder than I thought.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:00
+        ==================================================
+        
+2025-08-26 19:50:45,785 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:45,786 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:47,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:47,971 - INFO - Generated response via Groq for player 9
+2025-08-26 19:50:47,971 - INFO - 
+        Player 9 | Interaction #4
+        Message: "What's the story behind this place?"
+        NPC Reply: "Greetings again, traveler 9. This village has stood here for generations, its people living in harmony with nature and the land's ancient magic."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ["What's your name, stranger?", 'This weather is perfect for adventure.', 'Want to explore together?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:02
+        ==================================================
+        
+2025-08-26 19:50:48,074 - INFO - Player 25 mood changed to friendly
+2025-08-26 19:50:48,122 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:48,122 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:50,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:50,447 - INFO - Generated response via Groq for player 25
+2025-08-26 19:50:50,448 - INFO - 
+        Player 25 | Interaction #1
+        Message: "You look like you need help."
+        NPC Reply: ""Ah, good sir 25, you've a keen eye. 'Tis a hot day to be out in the sun, indeed.""
+        Mood: friendly | Topic: help
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:05
+        ==================================================
+        
+2025-08-26 19:50:50,604 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:50,606 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:53,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:53,314 - INFO - Generated response via Groq for player 20
+2025-08-26 19:50:53,315 - INFO - 
+        Player 20 | Interaction #2
+        Message: "I don't have time for chitchat!"
+        NPC Reply: "I see you're in a hurry, traveler. Very well, I won't keep you, but a quick word from the village elder might be in your interest, considering our previous... misunderstanding."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Get lost, I was here first!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:08
+        ==================================================
+        
+2025-08-26 19:50:53,476 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:53,476 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:55,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:55,667 - INFO - Generated response via Groq for player 15
+2025-08-26 19:50:55,668 - INFO - 
+        Player 15 | Interaction #3
+        Message: "This world is so immersive."
+        NPC Reply: ""Ah, 'tis a pleasure to see you're enjoying our little realm, good sir Player 15.""
+        Mood: friendly | Topic: greeting
+        Previous Messages: ['Stop following me around!', 'Thanks for being patient with me.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:10
+        ==================================================
+        
+2025-08-26 19:50:55,826 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:55,827 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:50:58,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:50:58,055 - INFO - Generated response via Groq for player 5
+2025-08-26 19:50:58,055 - INFO - 
+        Player 5 | Interaction #5
+        Message: "I'm enjoying this adventure."
+        NPC Reply: ""Ah, glad to hear that, adventurer. Many have returned with tales of their bravery.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Do you know any good hunting spots?', 'How much gold do I need?', 'Do you have any tips for beginners?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:12
+        ==================================================
+        
+2025-08-26 19:50:58,202 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:50:58,202 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:00,587 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:00,590 - INFO - Generated response via Groq for player 10
+2025-08-26 19:51:00,590 - INFO - 
+        Player 10 | Interaction #4
+        Message: "You've been very helpful."
+        NPC Reply: "You're welcome, good sir. I'm glad I could assist you in your time of need, as I did for Player 5 and Player 12."
+        Mood: neutral | Topic: help
+        Previous Messages: ['This game is so confusing!', 'Finally figured it out!', 'I love meeting new players!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:15
+        ==================================================
+        
+2025-08-26 19:51:00,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:00,761 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:03,041 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:03,044 - INFO - Generated response via Groq for player 26
+2025-08-26 19:51:03,044 - INFO - 
+        Player 26 | Interaction #1
+        Message: "What brings you to these lands?"
+        NPC Reply: "Good morrow to you, traveler from far-off lands. I'm but a humble villager, tending to my family's bakery, and awaiting the day's customers."
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:18
+        ==================================================
+        
+2025-08-26 19:51:03,199 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:03,200 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:05,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:05,423 - INFO - Generated response via Groq for player 16
+2025-08-26 19:51:05,423 - INFO - 
+        Player 16 | Interaction #3
+        Message: "I need to log off soon."
+        NPC Reply: ""Aye, the blacksmith's shop is just down that way, near the town square. You're welcome to stay a bit longer, but I suppose I'll see you next time, Player 16.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Anyone seen the blacksmith?', 'This place gives me the creeps.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:20
+        ==================================================
+        
+2025-08-26 19:51:05,589 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:05,590 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:07,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:07,778 - INFO - Generated response via Groq for player 1
+2025-08-26 19:51:07,778 - INFO - 
+        Player 1 | Interaction #7
+        Message: "The weather is changing."
+        NPC Reply: ""Ah, yes, the weather can change quickly. Perhaps a warm fire at the inn will help you shake the chill.""
+        Mood: friendly | Topic: general
+        Previous Messages: ['Where can I find a healer?', 'The inn looks cozy.', "What's that strange noise?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:22
+        ==================================================
+        
+2025-08-26 19:51:07,929 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:07,930 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:10,209 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:10,211 - INFO - Generated response via Groq for player 21
+2025-08-26 19:51:10,212 - INFO - 
+        Player 21 | Interaction #2
+        Message: "Safe travels on your journey!"
+        NPC Reply: ""May the road rise with you, good traveler. May your path be lit with warmth and guidance.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Good day to you, traveler!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:25
+        ==================================================
+        
+2025-08-26 19:51:10,369 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:10,370 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:12,579 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:12,581 - INFO - Generated response via Groq for player 6
+2025-08-26 19:51:12,582 - INFO - 
+        Player 6 | Interaction #5
+        Message: "This music is so relaxing."
+        NPC Reply: "Aye, 'tis a fine tune, isn't it? I'm glad ye're enjoyin' it - it's a popular one among our villagers."
+        Mood: friendly | Topic: greeting
+        Previous Messages: ['Thanks for the help earlier!', 'I love this soundtrack!', 'I could stay here all day.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:28
+        ==================================================
+        
+2025-08-26 19:51:12,732 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:12,733 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:15,226 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:15,228 - INFO - Generated response via Groq for player 27
+2025-08-26 19:51:15,228 - INFO - 
+        Player 27 | Interaction #1
+        Message: "You're blocking the entrance!"
+        NPC Reply: "Apologies, good sir 27, I was just ensuring the door's lock was secure. May I help you through?"
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:30
+        ==================================================
+        
+2025-08-26 19:51:15,401 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:15,410 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:17,594 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:17,595 - INFO - Generated response via Groq for player 11
+2025-08-26 19:51:17,595 - INFO - 
+        Player 11 | Interaction #4
+        Message: "I love the detail in this game."
+        NPC Reply: ""Ah, good day to you, traveler 11. Our village's craftsmanship is indeed renowned.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Anyone want to party up?', "Let's form a guild!", 'Anyone know where to find crystals?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:32
+        ==================================================
+        
+2025-08-26 19:51:17,747 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:17,747 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:20,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:20,403 - INFO - Generated response via Groq for player 22
+2025-08-26 19:51:20,403 - INFO - 
+        Player 22 | Interaction #2
+        Message: "Hurry up, I don't have all day!"
+        NPC Reply: "Good morrow, traveler 22. I'll move along, don't ye worry."
+        Mood: neutral | Topic: general
+        Previous Messages: ["You're in my spot, move it!"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:35
+        ==================================================
+        
+2025-08-26 19:51:20,560 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:20,561 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:23,322 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:23,324 - INFO - Generated response via Groq for player 3
+2025-08-26 19:51:23,324 - INFO - 
+        Player 3 | Interaction #6
+        Message: "Every conversation teaches me something."
+        NPC Reply: ""Another quest finished, I suppose. Now, tell me, what brings you to our village once again?""
+        Mood: angry | Topic: greeting
+        Previous Messages: ["I completed that quest, what's next?", 'That boss was impossible!', "I'm ready for whatever comes next."]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:38
+        ==================================================
+        
+2025-08-26 19:51:23,483 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:23,484 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:25,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:25,666 - INFO - Generated response via Groq for player 17
+2025-08-26 19:51:25,666 - INFO - 
+        Player 17 | Interaction #3
+        Message: "The lighting effects are incredible."
+        NPC Reply: ""Ah, yes, the master craftsmen of our village have done a fine job with the lanterns. They do add a warm glow to the evening hours.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Hello, how are you today?', 'The architecture here is amazing.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:40
+        ==================================================
+        
+2025-08-26 19:51:25,819 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:25,820 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:27,970 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:27,971 - INFO - Generated response via Groq for player 28
+2025-08-26 19:51:27,971 - INFO - 
+        Player 28 | Interaction #1
+        Message: "Hello, I'm new to this area."
+        NPC Reply: "Greetings, traveler from afar. Welcome to our humble village, where you'll find rest and refreshment for your journey."
+        Mood: neutral | Topic: greeting
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:42
+        ==================================================
+        
+2025-08-26 19:51:28,112 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:28,113 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:30,266 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:30,267 - INFO - Generated response via Groq for player 12
+2025-08-26 19:51:30,267 - INFO - 
+        Player 12 | Interaction #4
+        Message: "About time someone competent showed up."
+        NPC Reply: ""Ah, good morrow, traveler. I see you've finally taken notice of my expertise.""
+        Mood: neutral | Topic: general
+        Previous Messages: ["You're blocking my view!", 'Move out of the way, noob!', "Finally, someone who knows what they're doing."]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:45
+        ==================================================
+        
+2025-08-26 19:51:30,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:30,420 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:32,840 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:32,842 - INFO - Generated response via Groq for player 7
+2025-08-26 19:51:32,842 - INFO - 
+        Player 7 | Interaction #5
+        Message: "I'm still learning the ropes."
+        NPC Reply: "Welcome back, Traveler 7. Don't worry, crafting and magic are just a part of the journey. I'd be happy to help you with any questions you may have, just like I did last time when you asked about saving your progress."
+        Mood: friendly | Topic: general
+        Previous Messages: ['How do I craft items?', 'Where do I learn magic?', 'How do I save my progress?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:48
+        ==================================================
+        
+2025-08-26 19:51:33,004 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:33,005 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:36,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:36,011 - INFO - Generated response via Groq for player 18
+2025-08-26 19:51:36,011 - INFO - 
+        Player 18 | Interaction #3
+        Message: "You make this look so easy."
+        NPC Reply: ""Ah, ye've caught on, have ye? It's all about knowing the rhythms and routines of this fair village.""
+        Mood: friendly | Topic: greeting
+        Previous Messages: ['This village has great atmosphere!', 'I wish I had your experience.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:50
+        ==================================================
+        
+2025-08-26 19:51:36,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:36,164 - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-08-26 19:51:37,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:37,376 - INFO - Generated response via Groq for player 4
+2025-08-26 19:51:37,376 - INFO - 
+        Player 4 | Interaction #6
+        Message: "I need a break from grinding."
+        NPC Reply: ""Ah, sometimes a break can do one good. Why not take a stroll by the river, it's a fine day for it.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['This is taking forever...', 'I need better equipment.', 'This grind is killing me.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:52
+        ==================================================
+        
+2025-08-26 19:51:37,528 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:37,528 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:39,905 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:39,907 - INFO - Generated response via Groq for player 23
+2025-08-26 19:51:39,907 - INFO - 
+        Player 23 | Interaction #2
+        Message: "May your adventures be prosperous!"
+        NPC Reply: ""May the road rise to meet you, adventurer 23. I've heard rumors of a mysterious forest just north of here, said to hold secrets and dangers alike.""
+        Mood: neutral | Topic: quest
+        Previous Messages: ['Greetings, fellow adventurer!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:55
+        ==================================================
+        
+2025-08-26 19:51:40,060 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:40,060 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:42,244 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:42,245 - INFO - Generated response via Groq for player 29
+2025-08-26 19:51:42,245 - INFO - 
+        Player 29 | Interaction #1
+        Message: "Quit hogging all the attention!"
+        NPC Reply: ""Ah, good morrow, Player 29. I'm not hogging attention, merely serving the patrons of the village inn.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:04:58
+        ==================================================
+        
+2025-08-26 19:51:42,395 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:42,395 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:44,922 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:44,924 - INFO - Generated response via Groq for player 13
+2025-08-26 19:51:44,924 - INFO - 
+        Player 13 | Interaction #4
+        Message: "The NPCs here are well-designed."
+        NPC Reply: ""I'm glad you find our village pleasant, traveler. Many a weary adventurer has rested here.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Good evening, friend!', 'The sunset here is beautiful.', "I've been playing for hours."]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:00
+        ==================================================
+        
+2025-08-26 19:51:45,075 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:45,076 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:47,482 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:47,484 - INFO - Generated response via Groq for player 8
+2025-08-26 19:51:47,484 - INFO - 
+        Player 8 | Interaction #5
+        Message: "I appreciate your patience."
+        NPC Reply: ""A noble sentiment, good sir Player 8. Very well, I shall continue to guide you through the intricacies of combat training.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Can you teach me to fight?', 'Can someone explain the controls?', 'Could you show me the map?']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:02
+        ==================================================
+        
+2025-08-26 19:51:47,637 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:47,637 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:49,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:49,796 - INFO - Generated response via Groq for player 24
+2025-08-26 19:51:49,797 - INFO - 
+        Player 24 | Interaction #2
+        Message: "This is boring, I'm leaving!"
+        NPC Reply: "Good morrow, traveler. May the road rise up to meet you, and may fortune smile upon your return."
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['Stop wasting my time!']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:05
+        ==================================================
+        
+2025-08-26 19:51:49,970 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:49,971 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:52,148 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:52,149 - INFO - Generated response via Groq for player 19
+2025-08-26 19:51:52,149 - INFO - 
+        Player 19 | Interaction #3
+        Message: "Your guidance has been invaluable."
+        NPC Reply: ""It's a village's duty to help one another. I'm glad our paths have crossed, good 19.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['You look like a wise person.', 'Your wisdom is appreciated.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:08
+        ==================================================
+        
+2025-08-26 19:51:52,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:52,313 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:54,960 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:54,962 - INFO - Generated response via Groq for player 2
+2025-08-26 19:51:54,962 - INFO - 
+        Player 2 | Interaction #7
+        Message: "I'm starting to understand the mechanics."
+        NPC Reply: "You've finally grasped the basics, I suppose. Now, if you'll excuse me, I have more pressing matters to attend to."
+        Mood: angry | Topic: general
+        Previous Messages: ['I found a rare item!', "I'm running low on health potions.", "I think I'm getting the hang of this."]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:10
+        ==================================================
+        
+2025-08-26 19:51:55,112 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:55,114 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:57,283 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:57,284 - INFO - Generated response via Groq for player 30
+2025-08-26 19:51:57,285 - INFO - 
+        Player 30 | Interaction #1
+        Message: "Welcome to our little corner of the world!"
+        NPC Reply: ""Ah, good morrow, traveler from afar. I see you've arrived in our humble village, where the air is crisp and the ale is fine.""
+        Mood: neutral | Topic: general
+        Previous Messages: []
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:12
+        ==================================================
+        
+2025-08-26 19:51:57,432 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:57,432 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:51:59,628 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:51:59,630 - INFO - Generated response via Groq for player 14
+2025-08-26 19:51:59,630 - INFO - 
+        Player 14 | Interaction #4
+        Message: "This game has such depth."
+        NPC Reply: ""Welcome, traveler Player 14, it's good to see you're appreciating the depth of our world. We're glad you're finding it to your liking.""
+        Mood: neutral | Topic: greeting
+        Previous Messages: ['What level do I need to be?', 'This is harder than I thought.', 'This community seems friendly.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:15
+        ==================================================
+        
+2025-08-26 19:51:59,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:51:59,791 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:52:01,934 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:52:01,936 - INFO - Generated response via Groq for player 9
+2025-08-26 19:52:01,937 - INFO - 
+        Player 9 | Interaction #5
+        Message: "I feel like I belong here."
+        NPC Reply: ""Ah, you've found a sense of belonging here, have ye?""
+        Mood: neutral | Topic: general
+        Previous Messages: ['This weather is perfect for adventure.', 'Want to explore together?', "What's the story behind this place?"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:18
+        ==================================================
+        
+2025-08-26 19:52:02,086 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:52:02,086 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:52:04,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:52:04,447 - INFO - Generated response via Groq for player 25
+2025-08-26 19:52:04,448 - INFO - 
+        Player 25 | Interaction #2
+        Message: "You seem to know what you're doing."
+        NPC Reply: "Aye, I've done this work many times, lad. You're welcome to watch, if you'd like to learn."
+        Mood: friendly | Topic: general
+        Previous Messages: ['You look like you need help.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:20
+        ==================================================
+        
+2025-08-26 19:52:04,606 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:52:04,607 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:52:06,776 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:52:06,778 - INFO - Generated response via Groq for player 20
+2025-08-26 19:52:06,778 - INFO - 
+        Player 20 | Interaction #3
+        Message: "Stop being so slow!"
+        NPC Reply: ""Patience is a virtue, traveler. The village moves at its own pace.""
+        Mood: neutral | Topic: general
+        Previous Messages: ['Get lost, I was here first!', "I don't have time for chitchat!"]
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:22
+        ==================================================
+        
+2025-08-26 19:52:06,928 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-26 19:52:06,929 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-26 19:52:09,510 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-26 19:52:09,512 - INFO - Generated response via Groq for player 15
+2025-08-26 19:52:09,512 - INFO - 
+        Player 15 | Interaction #4
+        Message: "Thank you for making me feel welcome."
+        NPC Reply: ""Ah, 'tis a pleasure to have ye among us, good sir Player 15. May yer stay be as warm as our village's hospitality.""
+        Mood: friendly | Topic: compliment
+        Previous Messages: ['Stop following me around!', 'Thanks for being patient with me.', 'This world is so immersive.']
+        Fallback Used: False
+        Timestamp: 2025-08-26T15:05:25
+        ==================================================
+        
+2025-08-26 19:52:09,618 - INFO - Completed processing all messages. Generated 105 responses.
+2025-08-26 19:52:09,632 - INFO - Results saved to npc_chat_results.json
+2025-08-26 19:52:09,632 - INFO - 
+        =================== SUMMARY REPORT ===================
+        Total Interactions: 105
+        Unique Players: 30
+        Fallback Responses Used: 0 (0.0%)
+        
+        Mood Distribution:
+        {
+  "neutral": 71,
+  "friendly": 26,
+  "angry": 8
+}
+        
+        Topic Distribution:
+        {
+  "help": 9,
+  "general": 58,
+  "greeting": 30,
+  "quest": 4,
+  "insult": 2,
+  "compliment": 2
+}
+        
+        Player States Summary:
+        
+2025-08-26 19:52:09,633 - INFO - Player 2: 7 interactions, current mood: angry
+2025-08-26 19:52:09,633 - INFO - Player 5: 5 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 1: 7 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 6: 5 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 3: 6 interactions, current mood: angry
+2025-08-26 19:52:09,633 - INFO - Player 4: 6 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 10: 4 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 8: 5 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 9: 5 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 11: 4 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 7: 5 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 14: 4 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 12: 4 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 13: 4 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 15: 4 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 16: 3 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 17: 3 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 18: 3 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 19: 3 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 20: 3 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 21: 2 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 22: 2 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 23: 2 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 24: 2 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 25: 2 interactions, current mood: friendly
+2025-08-26 19:52:09,633 - INFO - Player 26: 1 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 27: 1 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 28: 1 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 29: 1 interactions, current mood: neutral
+2025-08-26 19:52:09,633 - INFO - Player 30: 1 interactions, current mood: neutral

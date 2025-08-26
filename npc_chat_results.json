@@ -1,0 +1,1387 @@
+[
+  {
+    "player_id": 2,
+    "player_message": "Where should I go now?",
+    "npc_reply": "Good morrow, traveler. You're still in need of guidance, I see. The village elder might be able to offer you wise counsel; you can find her at the town hall, just past the blacksmith's forge.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:01:05",
+    "fallback_used": false
+  },
+  {
+    "player_id": 5,
+    "player_message": "Can I buy a sword here?",
+    "npc_reply": "\"Aye, I can help ye with that. Follow me to the blacksmith's forge, and he'll be able to craft or sell ye a fine sword.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:07",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "Hello there!",
+    "npc_reply": "Good morrow, traveler. Welcome to our humble village, I am Edwin, the village blacksmith.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:10",
+    "fallback_used": false
+  },
+  {
+    "player_id": 6,
+    "player_message": "Sing me a song!",
+    "npc_reply": "\"Welcome back, traveler 6. I recall you asked me to sing a tune, but I'm a humble villager, not a minstrel.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:12",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "Do you have a quest for me?",
+    "npc_reply": "Good morrow, adventurer 3! I've actually been looking for someone with your... particular set of skills.",
+    "mood": "friendly",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "quest",
+    "timestamp": "2025-08-26T15:01:15",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "What's the fastest way to level up?",
+    "npc_reply": "\"Ah, you seek to grow in power, good traveler? I've heard the Adventurer's Guild in the nearby town offers challenging quests and rich rewards.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:18",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "Tell me more about this village.",
+    "npc_reply": "Welcome back, traveler. This village, Greenhaven, is a humble settlement nestled between the rolling hills and dense forests of our kingdom.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Hello there!"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:20",
+    "fallback_used": false
+  },
+  {
+    "player_id": 10,
+    "player_message": "This game is so confusing!",
+    "npc_reply": "Greetings, traveler 10. Welcome to our humble village. What brings you to our fair town today?",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:22",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "You are useless!",
+    "npc_reply": "How dare you speak to me like that, again. Leave now, traveler, before I summon the village guard.",
+    "mood": "angry",
+    "previous_messages": [
+      "Where should I go now?"
+    ],
+    "interaction_count": 2,
+    "topic": "insult",
+    "timestamp": "2025-08-26T15:01:25",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "Anyone selling armor?",
+    "npc_reply": "Good day, traveler. Yes, I have armor for sale, crafted by the village's finest blacksmith.",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's the fastest way to level up?"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:28",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "What monsters are nearby?",
+    "npc_reply": "Good morrow, traveler. In these parts, we've had whispers of goblins lurkin' in the nearby forest.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Do you have a quest for me?"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:30",
+    "fallback_used": false
+  },
+  {
+    "player_id": 8,
+    "player_message": "I'm lost, which way to the forest?",
+    "npc_reply": "Greetings, traveler 8. The forest lies east, beyond the village square.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:33",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "I need help fighting.",
+    "npc_reply": "We've had some skirmishes with bandits lately. I can introduce you to Grimbold, our village's best warrior, if you'd like to learn from him.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Hello there!",
+      "Tell me more about this village."
+    ],
+    "interaction_count": 3,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:01:35",
+    "fallback_used": false
+  },
+  {
+    "player_id": 9,
+    "player_message": "What's your name, stranger?",
+    "npc_reply": "My name is Edwin, village blacksmith. I've been serving the good people of Oakwood for nigh on 20 years.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:38",
+    "fallback_used": false
+  },
+  {
+    "player_id": 11,
+    "player_message": "Anyone want to party up?",
+    "npc_reply": "\"What sorcery do you speak of, traveler 11? I'm no adventurer, but I know the village elder might know of something.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:40",
+    "fallback_used": false
+  },
+  {
+    "player_id": 7,
+    "player_message": "This place looks awesome!",
+    "npc_reply": "\"Welcome to Oakwood Village, traveler! I'm Eira, the local baker. What brings you to our humble home?\"",
+    "mood": "friendly",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:42",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "Sorry, I was just frustrated.",
+    "npc_reply": "Forgive me for the previous inconvenience, traveler. I'll do my best to assist you in finding your way.",
+    "mood": "angry",
+    "previous_messages": [
+      "Where should I go now?",
+      "You are useless!"
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:45",
+    "fallback_used": false
+  },
+  {
+    "player_id": 14,
+    "player_message": "What level do I need to be?",
+    "npc_reply": "Good morrow, traveler from village 14. To determine your required level, I shall need to know what quest or task you seek to undertake.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:47",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "Where can I find a healer?",
+    "npc_reply": "You'll find our village healer, Elara, in the north wing of the village square. She's a skilled apothecary and should be able to tend to your wounds.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Hello there!",
+      "Tell me more about this village.",
+      "I need help fighting."
+    ],
+    "interaction_count": 4,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:01:48",
+    "fallback_used": false
+  },
+  {
+    "player_id": 5,
+    "player_message": "Do you know any good hunting spots?",
+    "npc_reply": "\"Ah, you're lookin' to bag some meat, eh? There's a good spot just north of the village, near the old oak forest, plenty of deer and rabbits to be found.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Can I buy a sword here?"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:50",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "This is taking forever...",
+    "npc_reply": "\"Patience is a virtue, traveler. The villagers are hard at work, and your requests will be attended to in due time.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's the fastest way to level up?",
+      "Anyone selling armor?"
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:01:52",
+    "fallback_used": false
+  },
+  {
+    "player_id": 6,
+    "player_message": "Thanks for the help earlier!",
+    "npc_reply": "\"Ah, you're welcome, good sir Player 6! 'Twas a pleasure to lend a hand.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Sing me a song!"
+    ],
+    "interaction_count": 2,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:01:55",
+    "fallback_used": false
+  },
+  {
+    "player_id": 12,
+    "player_message": "You're blocking my view!",
+    "npc_reply": "Good morrow, traveler. I was simply standing here, minding my own business.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:01:58",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "I completed that quest, what's next?",
+    "npc_reply": "\"Ah, good job on completing that quest, traveler. I have a new task in mind, one that requires bravery and cunning - the Whispering Woods are said to be plagued by a pack of ghost wolves.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Do you have a quest for me?",
+      "What monsters are nearby?"
+    ],
+    "interaction_count": 3,
+    "topic": "quest",
+    "timestamp": "2025-08-26T15:02:02",
+    "fallback_used": false
+  },
+  {
+    "player_id": 7,
+    "player_message": "How do I craft items?",
+    "npc_reply": "Welcome back, Traveler 7! I see you're eager to craft some items. Head over to Thorne's Forge, just outside the village. He'll be happy to guide you through the process.",
+    "mood": "friendly",
+    "previous_messages": [
+      "This place looks awesome!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:05",
+    "fallback_used": false
+  },
+  {
+    "player_id": 8,
+    "player_message": "Can you teach me to fight?",
+    "npc_reply": "\"Fighting skills don't grow on trees, but I can teach you the basics if you're willing to learn. Meet me at the village green at dawn if you're serious.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "I'm lost, which way to the forest?"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:08",
+    "fallback_used": false
+  },
+  {
+    "player_id": 13,
+    "player_message": "Good evening, friend!",
+    "npc_reply": "\"Ah, good evening to you, traveler number 13! What brings you to our humble village tonight?\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:10",
+    "fallback_used": false
+  },
+  {
+    "player_id": 9,
+    "player_message": "This weather is perfect for adventure.",
+    "npc_reply": "'Aye, the skies have been favorable of late. Glad you think so, traveler 9.'",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's your name, stranger?"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:02:12",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "I found a rare item!",
+    "npc_reply": "What manner of 'rare item' is this? Show me, and perhaps it shall earn you a warm welcome in our village, unlike your last visit.",
+    "mood": "angry",
+    "previous_messages": [
+      "Where should I go now?",
+      "You are useless!",
+      "Sorry, I was just frustrated."
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:15",
+    "fallback_used": false
+  },
+  {
+    "player_id": 15,
+    "player_message": "Stop following me around!",
+    "npc_reply": "Good morrow, traveler 15. I merely offered to assist, as I often do for our village's guests.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:18",
+    "fallback_used": false
+  },
+  {
+    "player_id": 5,
+    "player_message": "How much gold do I need?",
+    "npc_reply": "A fine warrior such as yourself will likely need about 15 gold pieces for a decent sword.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Can I buy a sword here?",
+      "Do you know any good hunting spots?"
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:20",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "The inn looks cozy.",
+    "npc_reply": "\"Aye, the Silver Stag Inn is a warm welcome after a long day's travel. I'm sure you'll find a comfortable room and a hot meal within.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Tell me more about this village.",
+      "I need help fighting.",
+      "Where can I find a healer?"
+    ],
+    "interaction_count": 5,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:22",
+    "fallback_used": false
+  },
+  {
+    "player_id": 10,
+    "player_message": "Finally figured it out!",
+    "npc_reply": "\"Ah, good fortune favors you, traveler from the north. 'Tis a relief to hear you've found your bearings.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "This game is so confusing!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:25",
+    "fallback_used": false
+  },
+  {
+    "player_id": 6,
+    "player_message": "I love this soundtrack!",
+    "npc_reply": "Good morrow to you, Traveler 6! It's a pleasure to hear you're enjoying our village's lively tunes.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Sing me a song!",
+      "Thanks for the help earlier!"
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:02:28",
+    "fallback_used": false
+  },
+  {
+    "player_id": 16,
+    "player_message": "Anyone seen the blacksmith?",
+    "npc_reply": "Good morrow, traveler 16. I haven't seen the blacksmith this morning, but you might find him working at the forge near the town square.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:30",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "That boss was impossible!",
+    "npc_reply": "Ah, I see ye're still reelin' from the battle, traveler. Don't ye worry, we've got a few skilled hunters who've taken down tougher foes than that beast ye faced.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Do you have a quest for me?",
+      "What monsters are nearby?",
+      "I completed that quest, what's next?"
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:33",
+    "fallback_used": false
+  },
+  {
+    "player_id": 11,
+    "player_message": "Let's form a guild!",
+    "npc_reply": "\"Guilds are a great way to organize adventurers, 11. I've seen many form within these village walls. What kind of guild would you be interested in forming?\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone want to party up?"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:35",
+    "fallback_used": false
+  },
+  {
+    "player_id": 17,
+    "player_message": "Hello, how are you today?",
+    "npc_reply": "Good morrow, traveler. I'm well, thank you for asking. May the road rise to meet you, for I can see you've walked some distance already.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:02:38",
+    "fallback_used": false
+  },
+  {
+    "player_id": 12,
+    "player_message": "Move out of the way, noob!",
+    "npc_reply": "\"Good morrow, traveler. I was just standing here, minding my own business.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "You're blocking my view!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:40",
+    "fallback_used": false
+  },
+  {
+    "player_id": 18,
+    "player_message": "This village has great atmosphere!",
+    "npc_reply": "\"Ah, 'tis a pleasure to see ye here, good sir 18 from... wherever ye may be from. Welcome to our humble village, I'm Eira, the local baker.\"",
+    "mood": "friendly",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:02:42",
+    "fallback_used": false
+  },
+  {
+    "player_id": 7,
+    "player_message": "Where do I learn magic?",
+    "npc_reply": "Young traveler from village 7, I see you're eager to learn magic. Our village elder, Thorold, teaches the ways of magic at the old windmill on the outskirts.",
+    "mood": "friendly",
+    "previous_messages": [
+      "This place looks awesome!",
+      "How do I craft items?"
+    ],
+    "interaction_count": 3,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:02:45",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "I need better equipment.",
+    "npc_reply": "\"I've got a few pieces of armor that might suit you, from a traveling blacksmith who passed through last week. Let's have a look, if you'd like.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's the fastest way to level up?",
+      "Anyone selling armor?",
+      "This is taking forever..."
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:48",
+    "fallback_used": false
+  },
+  {
+    "player_id": 13,
+    "player_message": "The sunset here is beautiful.",
+    "npc_reply": "\"Aye, the sunset over the rolling hills is a sight to behold, indeed. 'Tis a reminder of the changing seasons, don't you think, Player 13?\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Good evening, friend!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:50",
+    "fallback_used": false
+  },
+  {
+    "player_id": 8,
+    "player_message": "Can someone explain the controls?",
+    "npc_reply": "\"Ah, young traveler, you've come to us with questions, have ye? The controls are simple, just follow the gestures of your character on-screen and use the buttons to guide them.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "I'm lost, which way to the forest?",
+      "Can you teach me to fight?"
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:52",
+    "fallback_used": false
+  },
+  {
+    "player_id": 19,
+    "player_message": "You look like a wise person.",
+    "npc_reply": "\"Ah, a traveler, I see. What brings you to our humble village?\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:55",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "I'm running low on health potions.",
+    "npc_reply": "You've had your share of luck, I suppose. Our local apothecary still has some potions available, but they're not cheap.",
+    "mood": "angry",
+    "previous_messages": [
+      "You are useless!",
+      "Sorry, I was just frustrated.",
+      "I found a rare item!"
+    ],
+    "interaction_count": 5,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:02:58",
+    "fallback_used": false
+  },
+  {
+    "player_id": 14,
+    "player_message": "This is harder than I thought.",
+    "npc_reply": "\"Ah, welcome back, traveler 14. Perhaps a warm meal and a rest will help ease the troubles you're facing.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What level do I need to be?"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:00",
+    "fallback_used": false
+  },
+  {
+    "player_id": 9,
+    "player_message": "Want to explore together?",
+    "npc_reply": "\"Ah, I'm Eryndor Thorne, a villager and local guide. Exploring together sounds like a fine idea, for a small fee, of course.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's your name, stranger?",
+      "This weather is perfect for adventure."
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:02",
+    "fallback_used": false
+  },
+  {
+    "player_id": 20,
+    "player_message": "Get lost, I was here first!",
+    "npc_reply": "\"Ah, good morrow, traveler 20. No need for words like those in our humble village. I'm but a simple blacksmith, here to help all who need it.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:05",
+    "fallback_used": false
+  },
+  {
+    "player_id": 15,
+    "player_message": "Thanks for being patient with me.",
+    "npc_reply": "You've learned quickly, traveler 15. Your progress is a testament to your determination.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Stop following me around!"
+    ],
+    "interaction_count": 2,
+    "topic": "compliment",
+    "timestamp": "2025-08-26T15:03:08",
+    "fallback_used": false
+  },
+  {
+    "player_id": 5,
+    "player_message": "Do you have any tips for beginners?",
+    "npc_reply": "\"Ah, you're a newcomer to swordsmanship, eh? Be careful with that sword of yours, especially when facing the bandits on the forest road \u2013 they won't hold back.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Can I buy a sword here?",
+      "Do you know any good hunting spots?",
+      "How much gold do I need?"
+    ],
+    "interaction_count": 4,
+    "topic": "quest",
+    "timestamp": "2025-08-26T15:03:10",
+    "fallback_used": false
+  },
+  {
+    "player_id": 10,
+    "player_message": "I love meeting new players!",
+    "npc_reply": "\"Ah, a new face in the village. Welcome, Player 10!\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "This game is so confusing!",
+      "Finally figured it out!"
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:12",
+    "fallback_used": false
+  },
+  {
+    "player_id": 16,
+    "player_message": "This place gives me the creeps.",
+    "npc_reply": "You're feelin' a bit uneasy, I reckon. We don't get many strangers here in Willowdale, but we're always happy to have visitors.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone seen the blacksmith?"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:15",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "What's that strange noise?",
+    "npc_reply": "\"Ah, that noise sounds like it's coming from the old windmill on the outskirts of the village. Maybe it's just the wind or a stray animal, but I'll keep an ear out for you.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "I need help fighting.",
+      "Where can I find a healer?",
+      "The inn looks cozy."
+    ],
+    "interaction_count": 6,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:18",
+    "fallback_used": false
+  },
+  {
+    "player_id": 21,
+    "player_message": "Good day to you, traveler!",
+    "npc_reply": "\"Hail, traveler number 21. 'Tis a fine day to be walking, indeed.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:20",
+    "fallback_used": false
+  },
+  {
+    "player_id": 6,
+    "player_message": "I could stay here all day.",
+    "npc_reply": "\"Ah, 'tis a pleasant day for a stay, don't you think? Come, join me for some ale and we'll chat about the village news!\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Sing me a song!",
+      "Thanks for the help earlier!",
+      "I love this soundtrack!"
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:22",
+    "fallback_used": false
+  },
+  {
+    "player_id": 11,
+    "player_message": "Anyone know where to find crystals?",
+    "npc_reply": "\"Ah, crystals, you say? I've seen some at the local gem merchant, Elara's Treasures, just down the main street.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone want to party up?",
+      "Let's form a guild!"
+    ],
+    "interaction_count": 3,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:03:25",
+    "fallback_used": false
+  },
+  {
+    "player_id": 22,
+    "player_message": "You're in my spot, move it!",
+    "npc_reply": "\"Ah, good morrow, traveler number 22. I'll be moving along, no need to trouble yourself.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:28",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "I'm ready for whatever comes next.",
+    "npc_reply": "*scoffs* You think you're ready, do ya? You've had it easy so far, completing quests without breaking a sweat.",
+    "mood": "angry",
+    "previous_messages": [
+      "What monsters are nearby?",
+      "I completed that quest, what's next?",
+      "That boss was impossible!"
+    ],
+    "interaction_count": 5,
+    "topic": "insult",
+    "timestamp": "2025-08-26T15:03:30",
+    "fallback_used": false
+  },
+  {
+    "player_id": 17,
+    "player_message": "The architecture here is amazing.",
+    "npc_reply": "Aye, the stonemasons who built our village did a fine job, don't ye think? I've seen the same wonder on visitor 17's face before, but the village always looks new.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Hello, how are you today?"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:32",
+    "fallback_used": false
+  },
+  {
+    "player_id": 12,
+    "player_message": "Finally, someone who knows what they're doing.",
+    "npc_reply": "A wise traveler, I see. I've been expecting you, Player 12, to finally arrive with some decorum.",
+    "mood": "neutral",
+    "previous_messages": [
+      "You're blocking my view!",
+      "Move out of the way, noob!"
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:35",
+    "fallback_used": false
+  },
+  {
+    "player_id": 7,
+    "player_message": "How do I save my progress?",
+    "npc_reply": "Good morrow, traveler 7! Don't worry, your progress is saved within the village's sacred Oak of Records.",
+    "mood": "friendly",
+    "previous_messages": [
+      "This place looks awesome!",
+      "How do I craft items?",
+      "Where do I learn magic?"
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:38",
+    "fallback_used": false
+  },
+  {
+    "player_id": 18,
+    "player_message": "I wish I had your experience.",
+    "npc_reply": "\"Aye, it's a fine place to live, especially with the river nearby for fishing. You're welcome to try your hand at it, Player 18.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "This village has great atmosphere!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:40",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "This grind is killing me.",
+    "npc_reply": "\"Ah, I see you're still looking for better equipment. Perhaps a visit to the blacksmith would be in order?\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone selling armor?",
+      "This is taking forever...",
+      "I need better equipment."
+    ],
+    "interaction_count": 5,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:42",
+    "fallback_used": false
+  },
+  {
+    "player_id": 23,
+    "player_message": "Greetings, fellow adventurer!",
+    "npc_reply": "\"Ah, traveler 23, good day to you. What brings you to our humble village?\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:45",
+    "fallback_used": false
+  },
+  {
+    "player_id": 13,
+    "player_message": "I've been playing for hours.",
+    "npc_reply": "\"Ah, long day at it, eh, traveler? You've had a good stretch of gaming, I reckon.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Good evening, friend!",
+      "The sunset here is beautiful."
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:48",
+    "fallback_used": false
+  },
+  {
+    "player_id": 8,
+    "player_message": "Could you show me the map?",
+    "npc_reply": "\"Ah, good morrow, Traveler 8. Let me show you the local map, 'twill help you find your way. I've marked the path to the forest, as I recall your previous inquiry.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "I'm lost, which way to the forest?",
+      "Can you teach me to fight?",
+      "Can someone explain the controls?"
+    ],
+    "interaction_count": 4,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:03:50",
+    "fallback_used": false
+  },
+  {
+    "player_id": 24,
+    "player_message": "Stop wasting my time!",
+    "npc_reply": "Good morrow, traveler 24. I mean no disrespect, but perhaps a cup of ale to calm the temper?",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:52",
+    "fallback_used": false
+  },
+  {
+    "player_id": 19,
+    "player_message": "Your wisdom is appreciated.",
+    "npc_reply": "\"A simple acknowledgement is often as valuable as a lengthy one, traveler. May our paths cross again soon.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "You look like a wise person."
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:03:55",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "I think I'm getting the hang of this.",
+    "npc_reply": "\"Ah, a novice no more, eh? Get on with your training, you have a village to help protect.\"",
+    "mood": "angry",
+    "previous_messages": [
+      "Sorry, I was just frustrated.",
+      "I found a rare item!",
+      "I'm running low on health potions."
+    ],
+    "interaction_count": 6,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:03:58",
+    "fallback_used": false
+  },
+  {
+    "player_id": 14,
+    "player_message": "This community seems friendly.",
+    "npc_reply": "\"Aye, the folk here are kind and welcoming, sir Player 14. Many have become like family to me over the years.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What level do I need to be?",
+      "This is harder than I thought."
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:00",
+    "fallback_used": false
+  },
+  {
+    "player_id": 9,
+    "player_message": "What's the story behind this place?",
+    "npc_reply": "Greetings again, traveler 9. This village has stood here for generations, its people living in harmony with nature and the land's ancient magic.",
+    "mood": "neutral",
+    "previous_messages": [
+      "What's your name, stranger?",
+      "This weather is perfect for adventure.",
+      "Want to explore together?"
+    ],
+    "interaction_count": 4,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:02",
+    "fallback_used": false
+  },
+  {
+    "player_id": 25,
+    "player_message": "You look like you need help.",
+    "npc_reply": "\"Ah, good sir 25, you've a keen eye. 'Tis a hot day to be out in the sun, indeed.\"",
+    "mood": "friendly",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:04:05",
+    "fallback_used": false
+  },
+  {
+    "player_id": 20,
+    "player_message": "I don't have time for chitchat!",
+    "npc_reply": "I see you're in a hurry, traveler. Very well, I won't keep you, but a quick word from the village elder might be in your interest, considering our previous... misunderstanding.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Get lost, I was here first!"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:08",
+    "fallback_used": false
+  },
+  {
+    "player_id": 15,
+    "player_message": "This world is so immersive.",
+    "npc_reply": "\"Ah, 'tis a pleasure to see you're enjoying our little realm, good sir Player 15.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Stop following me around!",
+      "Thanks for being patient with me."
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:10",
+    "fallback_used": false
+  },
+  {
+    "player_id": 5,
+    "player_message": "I'm enjoying this adventure.",
+    "npc_reply": "\"Ah, glad to hear that, adventurer. Many have returned with tales of their bravery.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Do you know any good hunting spots?",
+      "How much gold do I need?",
+      "Do you have any tips for beginners?"
+    ],
+    "interaction_count": 5,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:12",
+    "fallback_used": false
+  },
+  {
+    "player_id": 10,
+    "player_message": "You've been very helpful.",
+    "npc_reply": "You're welcome, good sir. I'm glad I could assist you in your time of need, as I did for Player 5 and Player 12.",
+    "mood": "neutral",
+    "previous_messages": [
+      "This game is so confusing!",
+      "Finally figured it out!",
+      "I love meeting new players!"
+    ],
+    "interaction_count": 4,
+    "topic": "help",
+    "timestamp": "2025-08-26T15:04:15",
+    "fallback_used": false
+  },
+  {
+    "player_id": 26,
+    "player_message": "What brings you to these lands?",
+    "npc_reply": "Good morrow to you, traveler from far-off lands. I'm but a humble villager, tending to my family's bakery, and awaiting the day's customers.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:18",
+    "fallback_used": false
+  },
+  {
+    "player_id": 16,
+    "player_message": "I need to log off soon.",
+    "npc_reply": "\"Aye, the blacksmith's shop is just down that way, near the town square. You're welcome to stay a bit longer, but I suppose I'll see you next time, Player 16.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone seen the blacksmith?",
+      "This place gives me the creeps."
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:20",
+    "fallback_used": false
+  },
+  {
+    "player_id": 1,
+    "player_message": "The weather is changing.",
+    "npc_reply": "\"Ah, yes, the weather can change quickly. Perhaps a warm fire at the inn will help you shake the chill.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Where can I find a healer?",
+      "The inn looks cozy.",
+      "What's that strange noise?"
+    ],
+    "interaction_count": 7,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:22",
+    "fallback_used": false
+  },
+  {
+    "player_id": 21,
+    "player_message": "Safe travels on your journey!",
+    "npc_reply": "\"May the road rise with you, good traveler. May your path be lit with warmth and guidance.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Good day to you, traveler!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:25",
+    "fallback_used": false
+  },
+  {
+    "player_id": 6,
+    "player_message": "This music is so relaxing.",
+    "npc_reply": "Aye, 'tis a fine tune, isn't it? I'm glad ye're enjoyin' it - it's a popular one among our villagers.",
+    "mood": "friendly",
+    "previous_messages": [
+      "Thanks for the help earlier!",
+      "I love this soundtrack!",
+      "I could stay here all day."
+    ],
+    "interaction_count": 5,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:28",
+    "fallback_used": false
+  },
+  {
+    "player_id": 27,
+    "player_message": "You're blocking the entrance!",
+    "npc_reply": "Apologies, good sir 27, I was just ensuring the door's lock was secure. May I help you through?",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:30",
+    "fallback_used": false
+  },
+  {
+    "player_id": 11,
+    "player_message": "I love the detail in this game.",
+    "npc_reply": "\"Ah, good day to you, traveler 11. Our village's craftsmanship is indeed renowned.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Anyone want to party up?",
+      "Let's form a guild!",
+      "Anyone know where to find crystals?"
+    ],
+    "interaction_count": 4,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:32",
+    "fallback_used": false
+  },
+  {
+    "player_id": 22,
+    "player_message": "Hurry up, I don't have all day!",
+    "npc_reply": "Good morrow, traveler 22. I'll move along, don't ye worry.",
+    "mood": "neutral",
+    "previous_messages": [
+      "You're in my spot, move it!"
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:35",
+    "fallback_used": false
+  },
+  {
+    "player_id": 3,
+    "player_message": "Every conversation teaches me something.",
+    "npc_reply": "\"Another quest finished, I suppose. Now, tell me, what brings you to our village once again?\"",
+    "mood": "angry",
+    "previous_messages": [
+      "I completed that quest, what's next?",
+      "That boss was impossible!",
+      "I'm ready for whatever comes next."
+    ],
+    "interaction_count": 6,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:38",
+    "fallback_used": false
+  },
+  {
+    "player_id": 17,
+    "player_message": "The lighting effects are incredible.",
+    "npc_reply": "\"Ah, yes, the master craftsmen of our village have done a fine job with the lanterns. They do add a warm glow to the evening hours.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Hello, how are you today?",
+      "The architecture here is amazing."
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:40",
+    "fallback_used": false
+  },
+  {
+    "player_id": 28,
+    "player_message": "Hello, I'm new to this area.",
+    "npc_reply": "Greetings, traveler from afar. Welcome to our humble village, where you'll find rest and refreshment for your journey.",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:42",
+    "fallback_used": false
+  },
+  {
+    "player_id": 12,
+    "player_message": "About time someone competent showed up.",
+    "npc_reply": "\"Ah, good morrow, traveler. I see you've finally taken notice of my expertise.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "You're blocking my view!",
+      "Move out of the way, noob!",
+      "Finally, someone who knows what they're doing."
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:45",
+    "fallback_used": false
+  },
+  {
+    "player_id": 7,
+    "player_message": "I'm still learning the ropes.",
+    "npc_reply": "Welcome back, Traveler 7. Don't worry, crafting and magic are just a part of the journey. I'd be happy to help you with any questions you may have, just like I did last time when you asked about saving your progress.",
+    "mood": "friendly",
+    "previous_messages": [
+      "How do I craft items?",
+      "Where do I learn magic?",
+      "How do I save my progress?"
+    ],
+    "interaction_count": 5,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:48",
+    "fallback_used": false
+  },
+  {
+    "player_id": 18,
+    "player_message": "You make this look so easy.",
+    "npc_reply": "\"Ah, ye've caught on, have ye? It's all about knowing the rhythms and routines of this fair village.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "This village has great atmosphere!",
+      "I wish I had your experience."
+    ],
+    "interaction_count": 3,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:04:50",
+    "fallback_used": false
+  },
+  {
+    "player_id": 4,
+    "player_message": "I need a break from grinding.",
+    "npc_reply": "\"Ah, sometimes a break can do one good. Why not take a stroll by the river, it's a fine day for it.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "This is taking forever...",
+      "I need better equipment.",
+      "This grind is killing me."
+    ],
+    "interaction_count": 6,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:52",
+    "fallback_used": false
+  },
+  {
+    "player_id": 23,
+    "player_message": "May your adventures be prosperous!",
+    "npc_reply": "\"May the road rise to meet you, adventurer 23. I've heard rumors of a mysterious forest just north of here, said to hold secrets and dangers alike.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Greetings, fellow adventurer!"
+    ],
+    "interaction_count": 2,
+    "topic": "quest",
+    "timestamp": "2025-08-26T15:04:55",
+    "fallback_used": false
+  },
+  {
+    "player_id": 29,
+    "player_message": "Quit hogging all the attention!",
+    "npc_reply": "\"Ah, good morrow, Player 29. I'm not hogging attention, merely serving the patrons of the village inn.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:04:58",
+    "fallback_used": false
+  },
+  {
+    "player_id": 13,
+    "player_message": "The NPCs here are well-designed.",
+    "npc_reply": "\"I'm glad you find our village pleasant, traveler. Many a weary adventurer has rested here.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Good evening, friend!",
+      "The sunset here is beautiful.",
+      "I've been playing for hours."
+    ],
+    "interaction_count": 4,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:00",
+    "fallback_used": false
+  },
+  {
+    "player_id": 8,
+    "player_message": "I appreciate your patience.",
+    "npc_reply": "\"A noble sentiment, good sir Player 8. Very well, I shall continue to guide you through the intricacies of combat training.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Can you teach me to fight?",
+      "Can someone explain the controls?",
+      "Could you show me the map?"
+    ],
+    "interaction_count": 5,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:02",
+    "fallback_used": false
+  },
+  {
+    "player_id": 24,
+    "player_message": "This is boring, I'm leaving!",
+    "npc_reply": "Good morrow, traveler. May the road rise up to meet you, and may fortune smile upon your return.",
+    "mood": "neutral",
+    "previous_messages": [
+      "Stop wasting my time!"
+    ],
+    "interaction_count": 2,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:05:05",
+    "fallback_used": false
+  },
+  {
+    "player_id": 19,
+    "player_message": "Your guidance has been invaluable.",
+    "npc_reply": "\"It's a village's duty to help one another. I'm glad our paths have crossed, good 19.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "You look like a wise person.",
+      "Your wisdom is appreciated."
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:08",
+    "fallback_used": false
+  },
+  {
+    "player_id": 2,
+    "player_message": "I'm starting to understand the mechanics.",
+    "npc_reply": "You've finally grasped the basics, I suppose. Now, if you'll excuse me, I have more pressing matters to attend to.",
+    "mood": "angry",
+    "previous_messages": [
+      "I found a rare item!",
+      "I'm running low on health potions.",
+      "I think I'm getting the hang of this."
+    ],
+    "interaction_count": 7,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:10",
+    "fallback_used": false
+  },
+  {
+    "player_id": 30,
+    "player_message": "Welcome to our little corner of the world!",
+    "npc_reply": "\"Ah, good morrow, traveler from afar. I see you've arrived in our humble village, where the air is crisp and the ale is fine.\"",
+    "mood": "neutral",
+    "previous_messages": [],
+    "interaction_count": 1,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:12",
+    "fallback_used": false
+  },
+  {
+    "player_id": 14,
+    "player_message": "This game has such depth.",
+    "npc_reply": "\"Welcome, traveler Player 14, it's good to see you're appreciating the depth of our world. We're glad you're finding it to your liking.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "What level do I need to be?",
+      "This is harder than I thought.",
+      "This community seems friendly."
+    ],
+    "interaction_count": 4,
+    "topic": "greeting",
+    "timestamp": "2025-08-26T15:05:15",
+    "fallback_used": false
+  },
+  {
+    "player_id": 9,
+    "player_message": "I feel like I belong here.",
+    "npc_reply": "\"Ah, you've found a sense of belonging here, have ye?\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "This weather is perfect for adventure.",
+      "Want to explore together?",
+      "What's the story behind this place?"
+    ],
+    "interaction_count": 5,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:18",
+    "fallback_used": false
+  },
+  {
+    "player_id": 25,
+    "player_message": "You seem to know what you're doing.",
+    "npc_reply": "Aye, I've done this work many times, lad. You're welcome to watch, if you'd like to learn.",
+    "mood": "friendly",
+    "previous_messages": [
+      "You look like you need help."
+    ],
+    "interaction_count": 2,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:20",
+    "fallback_used": false
+  },
+  {
+    "player_id": 20,
+    "player_message": "Stop being so slow!",
+    "npc_reply": "\"Patience is a virtue, traveler. The village moves at its own pace.\"",
+    "mood": "neutral",
+    "previous_messages": [
+      "Get lost, I was here first!",
+      "I don't have time for chitchat!"
+    ],
+    "interaction_count": 3,
+    "topic": "general",
+    "timestamp": "2025-08-26T15:05:22",
+    "fallback_used": false
+  },
+  {
+    "player_id": 15,
+    "player_message": "Thank you for making me feel welcome.",
+    "npc_reply": "\"Ah, 'tis a pleasure to have ye among us, good sir Player 15. May yer stay be as warm as our village's hospitality.\"",
+    "mood": "friendly",
+    "previous_messages": [
+      "Stop following me around!",
+      "Thanks for being patient with me.",
+      "This world is so immersive."
+    ],
+    "interaction_count": 4,
+    "topic": "compliment",
+    "timestamp": "2025-08-26T15:05:25",
+    "fallback_used": false
+  }
+]
